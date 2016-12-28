@@ -17,5 +17,9 @@ namespace ZResource.Helpers
 
         public const string UnableToFindFolder = "UnableToFindFolder";
 
+        public const string UnableToCreateDirectory = "UnableToCreateDirectory";
+
+        public const string UnableToDeleteDirectory = "UnableToDeleteDirectory";
+
     }
 }

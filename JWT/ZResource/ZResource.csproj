@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Helpers\CodeHelper.cs" />
     <Compile Include="Manager\AppConfManager.cs" />
+    <Compile Include="Manager\DirectoryManager.cs" />
     <Compile Include="Manager\ResourceManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
